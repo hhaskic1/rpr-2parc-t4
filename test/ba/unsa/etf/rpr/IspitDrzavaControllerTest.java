@@ -1,4 +1,4 @@
-/*package ba.unsa.etf.rpr;
+package ba.unsa.etf.rpr;
 
 
 import javafx.fxml.FXMLLoader;
@@ -139,4 +139,3 @@ public class IspitDrzavaControllerTest {
         assertEquals("Graz", bih.getGlavniGrad().getNaziv());
     }
 }
-*/

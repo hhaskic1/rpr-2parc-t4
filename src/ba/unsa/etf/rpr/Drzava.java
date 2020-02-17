@@ -38,6 +38,8 @@ public class Drzava {
         this.glavniGrad = glavniGrad;
     }
 
+
+
     @Override
     public String toString() { return naziv; }
 }
